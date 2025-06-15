@@ -95,9 +95,10 @@
    text-transform: capitalize;
    color:#2e2f42;
 }
-.review-title{
+.review-main{
    background-color: #FFFFFF;  
 }
+
 .review-list-item{
    font-weight: 500;
    font-size: 20px;
