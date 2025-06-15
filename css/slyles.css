@@ -17,3 +17,19 @@
 .header-span-logo{
     color: #2e2f42;
 }
+
+.header-address {
+  font-style: normal;
+}
+.contacts-list-item-link {
+  color: #434455;
+  text-decoration: none;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.contacts-list-item-link:hover {
+  color: #404bbf;
+}
+.contacts-list-item-link:focus {
+  color: #404bbf;
+}
